@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "502414665462",
+    "firebase_url": "https://testbortnikov-ee7ad-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "testbortnikov-ee7ad",
+    "storage_bucket": "testbortnikov-ee7ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502414665462:android:e0eda23afbb17a7ee5aed7",
+        "android_client_info": {
+          "package_name": "com.example.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502414665462-409iq2diucght7kbv15v9cj9da5m6o84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8eRu0vBlmpGHIaFEjniqKrd8PSudBQwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502414665462-409iq2diucght7kbv15v9cj9da5m6o84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
